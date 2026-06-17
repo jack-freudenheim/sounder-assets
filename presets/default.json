@@ -1,0 +1,15 @@
+{
+  "name": "default",
+  "imageSource": {
+    "type": "library",
+    "name": "Crystal cluster (wide)"
+  },
+  "audioSource": {
+    "type": "library",
+    "name": "Bowls (7-10 min)"
+  },
+  "segs": 7,
+  "cycleMins": 5,
+  "zoom": 1.1,
+  "panr": 0.16
+}
