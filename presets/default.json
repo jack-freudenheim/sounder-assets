@@ -2,7 +2,7 @@
   "name": "default",
   "imageSource": {
     "type": "library",
-    "name": "Crystal cluster (wide)"
+    "name": "Crystal"
   },
   "audioSource": {
     "type": "library",
