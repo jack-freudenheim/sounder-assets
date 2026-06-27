@@ -1,16 +1,16 @@
 {
-  "name": "default",
+  "name": "untitled",
   "imageSource": {
     "type": "library",
-    "name": "Crystal"
+    "name": "Gypsum"
   },
   "audioSource": {
     "type": "library",
     "name": "Bowls (7-10 min)"
   },
-  "segs": 7,
-  "cycleMins": 5,
-  "zoom": 1.1,
-  "panr": 0.16
-
+  "segs": 6,
+  "cycleMins": 3,
+  "zoom": 0.55,
+  "panr": 0.47,
+  "aspectRatio": "16:9"
 }
