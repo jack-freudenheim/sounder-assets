@@ -1,3 +1,6 @@
 {
-  "Bowls (7-10 min)": "https://raw.githubusercontent.com/jack-freudenheim/sounder-assets/master/music/Bowls7-10m.mp3"
+  "base": "https://raw.githubusercontent.com/jack-freudenheim/sounder-assets/master/music/",
+  "audio": {
+    "Bowls (7-10 min)": "Bowls7-10m.mp3"
+  }
 }
