@@ -1,3 +1,4 @@
 {
-  "Default": "https://raw.githubusercontent.com/jack-freudenheim/sounder-assets/master/presets/default.json"
+  "Default": "https://raw.githubusercontent.com/jack-freudenheim/sounder-assets/master/presets/default.json",
+  "Wild Corn":"https://raw.githubusercontent.com/jack-freudenheim/sounder-assets/master/presets/Wild_Corn.json"
 }

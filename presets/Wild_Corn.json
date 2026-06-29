@@ -1,0 +1,16 @@
+{
+  "name": "Wild Corn",
+  "imageSource": {
+    "type": "library",
+    "name": "Corn"
+  },
+  "audioSource": {
+    "type": "library",
+    "name": "Bowls (7-10 min)"
+  },
+  "segs": 12,
+  "cycleMins": 1,
+  "zoom": 1.2,
+  "panr": 0.02,
+  "aspectRatio": "16:9"
+}
