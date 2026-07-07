@@ -8,9 +8,10 @@
     "type": "library",
     "name": "Bowls (7-10 min)"
   },
-  "segs": 6,
+  "segs": 9,
   "cycleMins": 15,
-  "zoom": 2,
-  "panr": 0.26,
-  "aspectRatio": "16:9"
+  "zoom": 1.1,
+  "panr": 0.34,
+  "aspectRatio": "16:9",
+  "panPhase": 0.06388911111111069
 }
