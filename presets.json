@@ -2,8 +2,8 @@
   "base": "https://raw.githubusercontent.com/jack-freudenheim/sounder-assets/master/presets/",
   "presets": {
     "Default": "default.json",
-    "Wild Corn":"Wild_Corn.json",
-    "Long Grass":"Long_grass.json",
-    "Long Grass 2":"Long_grass 2.json"
+    "Wild Corn": "Wild_Corn.json",
+    "Long Grass": "Long_grass.json",
+    "Long Grass 2": "Long_grass 2.json"
   }
 }
