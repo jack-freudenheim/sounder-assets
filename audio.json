@@ -1,6 +1,9 @@
 {
   "base": "https://raw.githubusercontent.com/jack-freudenheim/sounder-assets/master/music/",
   "audio": {
-    "Bowls (7-10 min)": "Bowls7-10m.mp3"
+    "Bowls (7-10 min)": "Bowls7-10m.mp3",
+    "Harmonics 4m": "Harmonics_4m.mp3"
+
+
   }
 }
