@@ -1,0 +1,24 @@
+{
+  "name": "Red",
+  "imageSource": {
+    "type": "library",
+    "name": "Dots"
+  },
+  "audioSource": {
+    "type": "library",
+    "name": "Harmonics 4m"
+  },
+  "segs": 12,
+  "cycleMins": 11,
+  "zoom": 1.4,
+  "panr": 0.21,
+  "aspectRatio": "16:9",
+  "panPhase": 0.6112053208273088,
+  "tintMode": "animate",
+  "tintHue": 0,
+  "tintHueFrom": 0,
+  "tintHueTo": 274,
+  "tintCycleMins": 1,
+  "tintStrength": 0.61,
+  "tintPhase": 0.9731650443121739
+}
