@@ -10,15 +10,15 @@
   },
   "segs": 12,
   "cycleMins": 10,
-  "zoom": 1.35,
-  "panr": 0.38,
+  "zoom": 0.45,
+  "panr": 0.23,
   "aspectRatio": "16:9",
-  "panPhase": 0,
+  "panPhase": 0.14277926666666607,
   "tintMode": "animate",
   "tintHue": 45,
   "tintHueFrom": 49,
   "tintHueTo": 251,
   "tintCycleMins": 10,
   "tintStrength": 0.41,
-  "tintPhase": 0
+  "tintPhase": 0.07138963333333304
 }
