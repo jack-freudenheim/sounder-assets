@@ -1,0 +1,24 @@
+{
+  "name": "Fire",
+  "imageSource": {
+    "type": "library",
+    "name": "Fire"
+  },
+  "audioSource": {
+    "type": "library",
+    "name": "Bowls (7-10 min)"
+  },
+  "segs": 12,
+  "cycleMins": 3,
+  "zoom": 0.2,
+  "panr": 0.49,
+  "aspectRatio": "16:9",
+  "panPhase": 0,
+  "tintMode": "static",
+  "tintHue": 0,
+  "tintHueFrom": 0,
+  "tintHueTo": 60,
+  "tintCycleMins": 10,
+  "tintStrength": 0,
+  "tintPhase": 0
+}
